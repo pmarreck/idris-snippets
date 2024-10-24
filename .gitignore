@@ -5,3 +5,6 @@
 # Idris 1
 *.ibc
 *.o
+
+# macos garbage
+.DS_Store
